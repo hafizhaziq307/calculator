@@ -1,6 +1,11 @@
 # calculator
 A web application to calculate some simple calculations.
 
+<img src="./res/output.png" alt="output-calculator">
+
+## Requirement
+- Node.js 12.13.0 or higher
+
 ## Setup
 ```
 npm install
