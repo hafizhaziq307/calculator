@@ -1,23 +1,6 @@
 # calculator
-A web application to calculate some simple calculations.
-
+A web app useed to calculate simple calculation.
 <img src="./res/output.png" alt="output-calculator" >
-
----
-
-## Requirement
-- Node.js 12.13.0 or higher
-
----
-
-## Setup
-- Clone this repo to your desktop.
-- Run `npm install`.
-
----
-
-## Usage
-Run `npm run serve` to start the application. You will then be able to access it at localhost:8080.
 
 ---
 
