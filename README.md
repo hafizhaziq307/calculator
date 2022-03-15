@@ -1,5 +1,5 @@
 # calculator
-A web app useed to calculate simple calculation.
+A web app used to calculate simple calculation.
 <img src="./res/output.png" alt="output-calculator" >
 
 ---
